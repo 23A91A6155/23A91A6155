@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"db":"dev-db","port":5433,"debug":true} 
+=======
+{"db":"prod-db","port":5432,"ssl":"require"} 
+>>>>>>> conflict-simulator

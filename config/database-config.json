@@ -1,1 +1,1 @@
-{"db":"localhost","port":5432} 
+{"db":"dev-db","port":5433,"debug":true} 

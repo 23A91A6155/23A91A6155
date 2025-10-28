@@ -1,0 +1,11 @@
+  conflict-simulator
+  feature/another-feature
+  feature/new-feature
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/conflict-simulator
+  remotes/origin/dev
+  remotes/origin/feature/another-feature
+  remotes/origin/feature/new-feature
+  remotes/origin/hotfix/patch-1
+  remotes/origin/main

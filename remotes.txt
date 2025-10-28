@@ -1,0 +1,4 @@
+instructor	https://github.com/instructor-name/DevOpsSimulator.git (fetch)
+instructor	https://github.com/instructor-name/DevOpsSimulator.git (push)
+origin	https://github.com/23A91A6155/git-solved-23A91A6155.git (fetch)
+origin	https://github.com/23A91A6155/git-solved-23A91A6155.git (push)

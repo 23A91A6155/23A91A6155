@@ -1,0 +1,31 @@
+* 6c666b4 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 05393c8 docs: Add Git Journey documentation
+* 64927f0 docs: Update README
+* da4b71f Updated monitor.js and added architecture.md
+* 54cb298 Implement system monitoring with environment support
+* c37e4a2 Document system architecture and deployment strategies
+* 09e6b0c Update README.md
+* 7bc019d Update deploy.sh
+| * 42f047c (feature/another-feature) docs: Add changelog
+| * 4b4d45a (origin/feature/another-feature) feat: Add test feature
+| * 93f5eb8 feat: Add new feature
+| * f0d1ae0 docs: Update README
+| | * d809a24 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| |/  
+| * 49d2328 Updated monitor.js and added architecture.md
+|/  
+* 0a442da Moved all project files into DevOpsSimulator main folder
+* fb74a2f Create deployment script for multiple environments
+* 244fd4c Update app-config.yaml
+* 96f5849 Update database-config.json
+* 2a7a583 (tag: v2.0-beta, tag: v1.1.0, tag: v1.0.0, tag: v1.0) Hotfix: minor patch update
+| * 2509563 (origin/hotfix/patch-1) Hotfix: minor patch update
+|/  
+*   564b9b6 Resolved merge conflicts between main and conflict-simulator
+|\  
+| * d630650 (origin/conflict-simulator, conflict-simulator) feat(conflict-sim): alter README, config and deploy script
+* | b4b0bd7 fix: resolved merge conflicts between main and dev
+* | 896a8b0 (origin/dev) feat(dev): update README and config for development
+|/  
+* 1fad172 chore: add base project structure and sample files
+* 6bf8a42 chore: initial commit with README and basic files

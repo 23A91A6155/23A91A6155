@@ -1,1 +1,1 @@
-"#!/bin/bash" 
+"echo 'deploy via docker compose'" 

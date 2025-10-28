@@ -4,15 +4,15 @@
 
 \## Student Information
 
-\- Name: \[YOUR NAME]
+\- Name: \[Paraselli Akhila]
 
-\- Student ID: \[YOUR ID]
+\- Student ID: \[23A91A6155]
 
-\- Repository: \[YOUR REPO URL]
+\- Repository: \[https://github.com/23A91A6155/git-solved-23A91A6155]
 
-\- Date Started: \[DATE]
+\- Date Started: \[25-10-2025]
 
-\- Date Completed: \[DATE]
+\- Date Completed: \[28-20-2025]
 
 
 
